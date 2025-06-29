@@ -152,14 +152,9 @@ Please **replace the placeholders below** with actual screenshots and a gameplay
 ![image_2025-06-29_17-25-54](https://github.com/user-attachments/assets/b6c2a99e-940a-4a85-908c-8689c5d241cb)
 
 
-You can then embed them like this:
+Watch the Demo:
 
-```markdown
-[Watch the Demo]
-
-https://github.com/user-attachments/assets/44b05538-edc1-4f83-8997-3f9199b425c6
-
-```
+https://github.com/user-attachments/assets/9492bda0-5ade-4580-8c14-4b79e75aec46
 
 ---
 
