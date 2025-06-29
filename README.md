@@ -149,6 +149,10 @@ Please **replace the placeholders below** with actual screenshots and a gameplay
 
 ![image_2025-06-29_12-54-44](https://github.com/user-attachments/assets/dd281dce-d85f-4bb6-bcea-38c0e2df8973)
 
+![image_2025-06-29_12-54-50](https://github.com/user-attachments/assets/b4a42827-9509-4c05-9314-98550b917fca)
+
+![image_2025-06-29_17-25-51](https://github.com/user-attachments/assets/554d871e-5dd4-49a2-bb5e-b25fadc27993)
+
 ![image_2025-06-29_17-25-54](https://github.com/user-attachments/assets/b6c2a99e-940a-4a85-908c-8689c5d241cb)
 
 
