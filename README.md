@@ -1,6 +1,3 @@
-Sure! Here's a complete **GitHub-style `README.md`** for your **Math Bubble Game** project (built with `pygame`, featuring medium-difficulty math problems and visual effects), **with Amazon Q CLI integration instructions**, full setup, and user guidance.
-
----
 
 # 🧠🎮 Math Bubble Catcher - Medium Difficulty (Python Pygame)
 
@@ -158,7 +155,10 @@ Please **replace the placeholders below** with actual screenshots and a gameplay
 You can then embed them like this:
 
 ```markdown
-[Watch the Demo]()
+[Watch the Demo]
+
+https://github.com/user-attachments/assets/44b05538-edc1-4f83-8997-3f9199b425c6
+
 ```
 
 ---
